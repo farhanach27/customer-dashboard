@@ -1,3 +1,16 @@
+# About Project
+This App show a static customer-dashboard based on the customer’s data provided and show the customer insights to the user. Using this user can get to know about his/her business. 
+
+Features:								     
+•	Built Front-end using ReactJs.
+
+•	Customer’s data is showed using cards and table from bootstrap.
+
+•	Order Distribution pie chart was created and showed using react-google-charts.
+
+Packages used: react, react-dom, bootstrap, react-google-charts
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
