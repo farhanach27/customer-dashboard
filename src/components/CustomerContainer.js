@@ -36,7 +36,7 @@ const CustomerContainer = (props) => {
         <div className="mb-3">
             <div className="row">
                 <div className="col-md-8">
-                    <h2>Listing Customers - {onlyUniqueCustomers.length} </h2>
+                    <h2>Listing Customer's - {onlyUniqueCustomers.length} </h2>
                 </div>
                 <div className="col-md-4">
                     <Search search={search} handleChange={handleChange} />
